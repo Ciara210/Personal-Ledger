@@ -1,12 +1,10 @@
 # Personal Ledger
 
----
 
 A notepad based on React Hooks + Vite 2.0 + Zarm UI
 
 ## Technology stack
 
----
 
 - Egg.js
 - Node.js
@@ -17,7 +15,6 @@ A notepad based on React Hooks + Vite 2.0 + Zarm UI
 
 ## Getting Start
 
----
 
 ### Installation & run
 
@@ -31,7 +28,6 @@ Run code:
 
 ## Features
 
----
 
 ### Login page
 
